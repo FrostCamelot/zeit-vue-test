@@ -4,5 +4,11 @@
     <img src="../assets/me.png" alt="me">
     <img src="../assets/me.png" alt="me">
     <img src="../assets/me.png" alt="me">
+    <img src="../assets/me.png" alt="me">
+    <img src="../assets/me.png" alt="me">
+    <img src="../assets/me.png" alt="me">
+    <img src="../assets/me.png" alt="me">
+    <img src="../assets/me.png" alt="me">
+    <img src="../assets/me.png" alt="me">
   </div>
 </template>
